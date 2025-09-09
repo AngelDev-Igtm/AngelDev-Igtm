@@ -7,8 +7,8 @@
 
 <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 45px></picture> About me
 
-I am an undergraduate **Systems Engineering student** at **UPN (Universidad Privada del Norte)**.  
-C# (intermediate), HTML & CSS (beginner) are the programming languages I’m currently learning and improving.  
+I am an undergraduate **Systems Engineering student**.  
+C#, HTML & CSS are the programming languages I’m currently learning and improving.  
 I love to keep growing, building something useful, productive, and practical.
 
 * **I am interested in Software development and creating real-world projects**
@@ -17,7 +17,7 @@ I love to keep growing, building something useful, productive, and practical.
   - HTML & CSS
 - 👯 I’m looking forward to collaborate on academic and open source projects.
 - ✔ Ask me about anything, I’m happy to help, only if the ball is in my court! 😉<br>
-- Outside tech, 🏋️ I enjoy gym training, 🎮 playing games like GTA V, Counter Strike 2 and Left 4 Dead 2, 🍿 watching anime, and 🎶 listening to music.
+- 🏋️ I enjoy gym training, 🍿 watching anime, and 🎶 listening to music.
 - 📫 Reach out to me at: <a href="mailto:angeleloymarindiaz2020@gmail.com">angeleloymarindiaz2020@gmail.com</a>
 
 ## My Skills Include
@@ -46,8 +46,6 @@ I love to keep growing, building something useful, productive, and practical.
 </span>
 
 ## My Social Media
-
-## Check out my Social Media
 
 <a href="https://www.instagram.com/angeleloy.marindiaz/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
